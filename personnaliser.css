@@ -17,7 +17,7 @@ h1 {
 
 nav {
     background-color: #ffb2e6; /* Rose clair */
-    padding: 10px;
+    padding: 15px;
     text-align: center;
 }
 
@@ -29,6 +29,7 @@ nav a {
     border-radius: 5px;
     background-color: #fff; /* Blanc */
 }
+
 
 nav a:hover {
     background-color: #ff99cc; /* Rose moyen au survol */
@@ -59,4 +60,15 @@ footer {
 .character-image {
     max-width: 100%;
     border-radius: 5px;
+}
+
+.flexcontainer{ /* pour logos de header */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.marginlogo{
+    padding-top: 40px;
 }
