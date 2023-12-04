@@ -43,7 +43,6 @@ footer {
     background-color: #ff66b2;
     padding: 10px;
     text-align: center;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
@@ -71,4 +70,16 @@ footer {
 
 .marginlogo{
     padding-top: 40px;
+}
+
+.video{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin-left: 550px;
+}
+
+.poster{
+    display: flex;
+    justify-content: flex-start;
 }

@@ -53,7 +53,7 @@ footer {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     margin: 20px;
-    text-align: center;
+    
 }
 
 .character-image {
@@ -70,4 +70,59 @@ footer {
 
 .marginlogo{
     padding-top: 40px;
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+    
+}
+.covercollection{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.margin1{
+    margin-right:0;
+}
+
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.margin2{
+    margin: 20px;
+}
+
+.email{
+    margin-left: 20px;
+}
+
+.imgflex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-end;
+}
+
+.flex{
+    display: flex;
+    
+    justify-content: flex-start;
+}
+
+.padding1{
+    padding-right: 300px;
+}
+
+.marg{
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+.marg1{
+    margin-right: 480px;
+    margin-left: 100px;
 }
