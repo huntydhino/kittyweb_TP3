@@ -56,3 +56,23 @@ footer {
     text-align: center;
     margin-top: auto; 
 }
+
+.center {
+    text-align: center;
+}
+
+.audio-player {
+    margin-top: 20px;
+}
+
+audio {
+    width: 100%;
+    background-color: #fff; 
+    border: 1px solid #ff66b2; 
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+audio:hover {
+    background-color: #ff99cc; 
+}
