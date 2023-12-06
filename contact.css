@@ -33,6 +33,7 @@ nav a {
 
 nav a:hover {
     background-color: #ff99cc; /* Rose moyen au survol */
+    color: #fff;
 }
 
 section {
@@ -83,9 +84,7 @@ footer {
     align-items: flex-start;
 }
 
-.margin1{
-    margin-right:0;
-}
+
 
 .form{
     display: flex;
