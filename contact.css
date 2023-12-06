@@ -125,3 +125,7 @@ footer {
     margin-right: 480px;
     margin-left: 100px;
 }
+
+.background{
+    background-image: url("cover-collection-sanrio.png");
+}

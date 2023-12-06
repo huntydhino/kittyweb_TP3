@@ -76,3 +76,23 @@ audio {
 audio:hover {
     background-color: #ff99cc; 
 }
+
+.character-card {
+    background-color: #fff; /* Blanc */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
